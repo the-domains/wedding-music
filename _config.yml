@@ -1,0 +1,23 @@
+name: wedding music
+favicon: null
+layout_spectrum: 0.3169685273896903
+typography_spectrum: 0.3490359438583255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23698817216791213
+  lightness: 0.6044450318440795
+  saturation: 0.500090081943199
+  rhythmicContrast: 0.7261898755095899
+purpose: []
